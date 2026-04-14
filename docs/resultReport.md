@@ -31,16 +31,20 @@
 - ✔️ OK - Query **[ 10 ]**
 
 ---
-- ❌ MISMATCH - Query **[ 11 ]** Result does not match expected output.
-
-
-🧩 Mismatch at position 0:
-- **Expected:** {"address":{},"borough":"Manhattan","cuisine":"Indian","grades":[{},{},{},{},{},{},{}],"location":{},"name":"Gandhi","restaurant_id":40381295}
-- **Actual:** {"_id":"69de01c66f2ea14461cb9c1f","address":{},"borough":"Manhattan","cuisine":"Indian","grades":[{},{},{},{},{},{},{}],"location":{},"name":"Gandhi","restaurant_id":40381295}
+- ✔️ OK - Query **[ 11 ]**
 
 ---
 - ✔️ OK - Query **[ 12 ]**
 
 ---
 - ✔️ OK - Query **[ 13 ]**
+
+---
+- ✔️ OK - Query **[ 14 ]**
+
+---
+- ✔️ OK - Query **[ 15 ]**
+
+---
+- ✔️ OK - Query **[ 16 ]**
 
